@@ -23,3 +23,6 @@ function merge(leftArr, rightArr){
 
 const arr = [-6, 20, 8, -2, 4]
 console.log(mergeSort(arr))
+
+// Big-O = O(n log n)
+// Space Complexity = O(n)
